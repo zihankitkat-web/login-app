@@ -1,7 +1,10 @@
 ![alt text](https://github.com/zihankitkat-web/login-app/blob/main/login-application/lacostee.png?raw=true)
 
 # login
-
+Login untuk tugas kelompok
+Faruq Dumyati Sidiq(232101036)
+Zihan Nurakbar(232101034)
+Demas Nurzaman(232101037)
 A new Flutter project.
 
 ## Getting Started
