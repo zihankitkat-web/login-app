@@ -4,7 +4,7 @@
 Login untuk tugas kelompok
 Faruq Dumyati Sidiq(232101036)
 Zihan Nurakbar(232101034)
-Demas Nurzaman(232101037)
+Demas Nurjaman(232101037)
 A new Flutter project.
 
 ## Getting Started
